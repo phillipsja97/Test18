@@ -1,0 +1,1 @@
+console.log('Best Console log in history');
